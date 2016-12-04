@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'pickypodios_Example' do
+  pod 'pickypodios', :path => '../'
+
+  target 'pickypodios_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end
