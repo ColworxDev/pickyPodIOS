@@ -1,0 +1,6 @@
+framework module pickypodios {
+  umbrella header "pickypodios-umbrella.h"
+
+  export *
+  module * { export * }
+}

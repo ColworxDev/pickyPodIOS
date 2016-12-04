@@ -1,0 +1,26 @@
+{
+  "name": "pickypodios",
+  "version": "0.1.0",
+  "summary": "A short description of pickypodios.",
+  "homepage": "https://github.com/ColworxDev/pickyPodIOS",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Shujat": "shujat-ali@outlook.com"
+  },
+  "source": {
+    "git": "https://github.com/ColworxDev/pickyPodIOS.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "pickypodios/Classes/**/*",
+  "resource_bundles": {
+    "pickypodios": [
+      "pickypodios/Assets/*.png"
+    ]
+  }
+}

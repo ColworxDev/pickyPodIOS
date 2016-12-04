@@ -1,0 +1,16 @@
+PODS:
+  - pickypodios (0.1.0)
+
+DEPENDENCIES:
+  - pickypodios (from `../`)
+
+EXTERNAL SOURCES:
+  pickypodios:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  pickypodios: 6221a665e6177f2274b207d0f51fbaf1dd6ee76e
+
+PODFILE CHECKSUM: 188f6ca1e3ef3431d21671ee986e7d111e89183a
+
+COCOAPODS: 1.0.1

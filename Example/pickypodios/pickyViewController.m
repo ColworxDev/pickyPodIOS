@@ -7,6 +7,7 @@
 //
 
 #import "pickyViewController.h"
+#import <pickypodios/ACFloatingTextField.h>
 
 @interface pickyViewController ()
 
@@ -18,6 +19,10 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    
+//     ACFloatingTextField *txt = [ACFloatingTextField new];
+//     NSLog(@"txt %@",txt);
+    
 }
 
 - (void)didReceiveMemoryWarning
